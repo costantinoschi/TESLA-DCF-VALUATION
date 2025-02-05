@@ -33,10 +33,9 @@ The following steps were taken to perform the DCF valuation:
    - The intrinsic value per share was calculated by dividing the total present value by the number of shares outstanding.
 
 ## Files  
-- `tesla_dcf.xlsx` → Full DCF model in Excel format  
-- `tesla_dcf.py` → Python script used for DCF valuation  
+- `tesla_dcf_model.py` → Python script used for DCF valuation  
 - `tesla_financials.py` → Python script to download Tesla's financial data from Yahoo Finance  
-- `README.md` → Project summary  
+- `README.md` → Project summary
 
 ## Next Steps  
 - Improve growth assumptions by factoring in **macroeconomic trends** and **industry-specific developments**.
