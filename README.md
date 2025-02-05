@@ -4,7 +4,7 @@
 This project presents a **Discounted Cash Flow (DCF)** valuation for **Tesla (TSLA)** to estimate its intrinsic stock value based on projected future cash flows, the Weighted Average Cost of Capital (WACC), and the terminal growth rate.
 
 ## Key Findings  
-- Estimated fair value per share: **$112.00** (vs. market price $112.00 as of the project date)  
+- Estimated fair value per share: **$112.00** (vs. market price 379.20 as of the project date)  
 - WACC used: **8%**  
 - Assumed growth rate: **3-5%** (long-term growth rate)
 
